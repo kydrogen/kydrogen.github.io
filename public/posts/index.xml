@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on My Blog</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on My Blog</description>
+    <generator>Hugo -- 0.138.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 12 Apr 2025 21:23:46 -0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First Post</title>
+      <link>http://localhost:1313/posts/first-post/</link>
+      <pubDate>Sat, 12 Apr 2025 21:23:46 -0700</pubDate>
+      <guid>http://localhost:1313/posts/first-post/</guid>
+      <description>&lt;p&gt;Hello there! This is a test&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>What is DEI part (1 of 8)</title>
+      <link>http://localhost:1313/posts/2025.04.13/</link>
+      <pubDate>Sat, 12 Apr 2025 21:23:46 -0700</pubDate>
+      <guid>http://localhost:1313/posts/2025.04.13/</guid>
+      <description>&lt;p&gt;This is a special DEI blog series where I will explore what DEI is and providing unbaised information regarding many topics of DEI.&lt;/p&gt;
+&lt;h1 id=&#34;what-is-dei&#34;&gt;What is DEI?&lt;/h1&gt;
+&lt;p&gt;DEI is ancronym. It stands for Diversity, Equity and Inclusion. Diversity menas to have varity. In this case however, it could mean having diffrent people, races, genders, ages, religions, abilites or backrounds. Equity means to be fair or equitable. Equity does not mean treating everyone the same way but it means providing the same opertunites for people. It means to recognize that some people might face more obstacles than others and adjusting policers to support to help level the playing field. Inclusion in DEI means to make sure that people feel like they belong. Like they feel equaly valued.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
