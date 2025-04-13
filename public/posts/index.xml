@@ -1,13 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on My Blog</title>
+    <title>Posts on Kydan&#39;s Blog</title>
     <link>http://localhost:1313/posts/</link>
-    <description>Recent content in Posts on My Blog</description>
+    <description>Recent content in Posts on Kydan&#39;s Blog</description>
     <generator>Hugo -- 0.138.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 12 Apr 2025 21:23:46 -0700</lastBuildDate>
+    <lastBuildDate>Sun, 13 Apr 2025 15:56:47 -0700</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What is DEI part (2 of 8)</title>
+      <link>http://localhost:1313/posts/2025.04.13.2/</link>
+      <pubDate>Sun, 13 Apr 2025 15:56:47 -0700</pubDate>
+      <guid>http://localhost:1313/posts/2025.04.13.2/</guid>
+      <description>&lt;h1 id=&#34;why-have-many-large-companies-been-pulling-out-of-dei&#34;&gt;Why have many large companies been pulling out of DEI?&lt;/h1&gt;
+&lt;p&gt;You might have heard recently that many large scale companies have been pulling out of DEI such as Target, Meta, Amazon, McDonald&amp;rsquo;s, Pepsi, Google, Walmart and more. Many people seem to not understand why companies are pulling out of their DEI initiatives. There are multiple reasons why companies are withdrawing from DEI.&lt;/p&gt;
+&lt;h3 id=&#34;1--economic-considerations&#34;&gt;1.  Economic Considerations&lt;/h3&gt;
+&lt;p&gt;In times of finacial uncertainty, with inflation and recessions, companies might prioritize cost cutting. To many companies, DEI may be seen as non essential so these DEI programs may be the first to face budget reductions.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>What is DEI part (1 of 8)</title>
       <link>http://localhost:1313/posts/2025.04.13.1/</link>

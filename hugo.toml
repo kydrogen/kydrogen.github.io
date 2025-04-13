@@ -2,7 +2,7 @@ theme = "PaperMod"
 
 # Basic config
 baseURL = "https://kydrogen.github.io/"
-title = "My Blog"
+title = "Kydan's Blog"
 languageCode = "en-us"
 paginate = 5
 
