@@ -1,10 +1,12 @@
-theme = "PaperMod"
-
-# Basic config
-baseURL = "https://kydrogen.github.io/"
 title = "Kydan's Blog"
+baseURL = "https://kydrogen.github.io/"
 languageCode = "en-us"
-paginate = 5
+
+theme = "PaperMod"
+pagination.pagerSize = 5
 
 [params]
 mainSections = ["posts"]
+
+[params.footer]
+  text = "Pantera School Project"
