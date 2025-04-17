@@ -16,6 +16,7 @@ President John F Kennedy's executive order introduced the term " affirmative act
 Dr. King's vision of a " beloved community " where people are not judged " by the color of their skin but by the content of their character " resonates deeply with modern DEI values. 
 
 In the 1980s, Lewis Brown Griggs was credited for coining the terms diversity and equity. He alone did not found DEI but multiple people did. The modern DEI movement is rooted from the US Civil Rights Movement of the 1960s.  Lewis Brown contributed to the terminology of DEI and early corporate training efforts. At first, DEI primarily focused on just racial disparities. Overtime, DEI expanded and grew to encompass many other aspects such as gender identity, disability, religion, belief, language and national origin, socioeconomic status and much more. 
+
 ---
 ```
 Duration: 60 minutes
