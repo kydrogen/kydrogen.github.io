@@ -18,6 +18,3 @@ Mandatory or poorly designed diversity training cna sometimes provoke backlash, 
 Voluntary Diversity Training, as opposed to the mandatory sessions, tends to be more effective. Employees who choose to partake in these voluntary classes are much more likely to be receptive and integrate their training into their behavior. When people choose to attend Diversity Training, they are more open to learning and applying the content to their behavior. 
 
 Mentoring Programs pair junior employees with senior mentors to help underrepresented groups build skills and get noticed for promotions. Mentoring programs increased representation of Black, Hispanic, and Asian American women and men in management by 9 to 24%, according to Dobbin and Kalev's studies. 
-
-
-

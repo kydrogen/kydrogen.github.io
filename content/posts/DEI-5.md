@@ -14,5 +14,3 @@ Not only did the Trump administration freeze funding, but also threaten to revok
 These freezes on funding has a huge impact on research. It has jeopardized numerous research projects at Harvard. For instance, scientists working on tuberculosis research involving macaques have warned that without funding, they may be forced to put down animals due to their inability to care for them.
 
 Other university or academic institutions just like Harvard receive millions of dollars in federal research grants. All for medicine, engineering, public health and more. If the government starts auditing these academic institutions too, their funding could be cut. Stalling or even canceling important research projects.
-
-
