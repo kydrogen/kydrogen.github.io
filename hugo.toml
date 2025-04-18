@@ -7,6 +7,7 @@ pagination.pagerSize = 5
 
 [params]
 mainSections = ["posts"]
+sortOrder = "asc"
 
 [params.footer]
   text = "Pantera School Project"
