@@ -1,5 +1,5 @@
 +++
-date = '2025-04-14T19:41:11-07:00'
+date = '2025-04-17T19:05:11-07:00'
 draft = false
 title = 'What is DEI part (5 of 8)'
 +++
