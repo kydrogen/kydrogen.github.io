@@ -13,6 +13,22 @@
         {{ . | markdownify }}
     {{- end }}
 
+    <div class="page-visit-count">
+        Page views: <span id="counter"></span>
+    </div>
+    <script>
+        document.addEventListener("DOMContentLoaded", function () {
+            const counter = document.getElementById("counter");
+            fetch(`https://counter.dev/api/get?url=${encodeURIComponent(window.location.href)}`)
+                .then(response => response.json())
+                .then(data => {
+                    counter.textContent = data.count || 0;
+                })
+                .catch(() => {
+                    counter.textContent = "N/A";
+                });
+        });
+    </script>
 </footer>
 {{- end }}
 
